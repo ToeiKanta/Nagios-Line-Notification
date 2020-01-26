@@ -19,8 +19,11 @@
 3. Restart Nagios service
   `sudo service nagios restart`
 
-## Image
+## Line Notify
 ![Image1](./markdown/img1.png)
+## Nagios Core
 ![Image1](./markdown/img4.png)
+
 ![Image1](./markdown/img2.png)
+
 ![Image1](./markdown/img3.png)
