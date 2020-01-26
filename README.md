@@ -1,5 +1,5 @@
 # Nagios-Line-Notification
-
+    * This project use Nagios Core v.4.4.5
 ## Getting Start with Line
 
 1. Sign in Line from link >> https://notify-bot.line.me/en/
@@ -14,9 +14,12 @@
 
 1. Copy command.cfg to your Nagios command.cfg
   Ex. Path `/usr/local/nagios/etc/objects/commands.cfg`
+  
 2. Copy "line.sh" to plugin path ex. `/etc/nagios-plugins/plugins/` (If you change line.sh path , you choose change path in file "command.cfg" too)
+
 2. Verify configuration
   Ex. `sudo /usr/local/nagios/bin/nagios -v /usr/local/nagios/etc/nagios.cfg`
+  
 3. Restart Nagios service
   `sudo service nagios restart`
 
