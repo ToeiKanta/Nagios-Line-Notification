@@ -23,8 +23,8 @@
 <img src="./markdown/img1.png" width="500px">
 
 ## Nagios Core
-<img src="./markdown/img4.png" width="500px">
+<img src="./markdown/img4.png" >
 
-<img src="./markdown/img2.png" width="500px">
+<img src="./markdown/img2.png" >
 
-<img src="./markdown/img3.png" width="500px">
+<img src="./markdown/img3.png" >
