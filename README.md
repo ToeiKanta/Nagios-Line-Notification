@@ -20,10 +20,11 @@
   `sudo service nagios restart`
 
 ## Line Notify
-![Image1](./markdown/img1.png)
+<img src="./markdown/img1.png" width="500px">
+
 ## Nagios Core
-![Image1](./markdown/img4.png)
+<img src="./markdown/img4.png" width="500px">
 
-![Image1](./markdown/img2.png)
+<img src="./markdown/img2.png" width="500px">
 
-![Image1](./markdown/img3.png)
+<img src="./markdown/img3.png" width="500px">
